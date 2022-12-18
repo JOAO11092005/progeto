@@ -16,7 +16,14 @@ body{
     align-items: center;
     height: 100vh;
 }
-
+body .section{
+   font-size: 18px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+   padding: 30px;
+}
 header{
     position: absolute;
     top: 0;
